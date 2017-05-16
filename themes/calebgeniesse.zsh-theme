@@ -1,6 +1,6 @@
 # aliases for colors/effects
 local PINK="%{$FX[bold]$FG[198]%}"
-local WHITE="%{$FX[bold]$FG[015]%}"
+local WHITE="%{$FX[bold]$FG[007]%}"
 local GRAY="%{$FX[bold]$FG[008]%}"
 local CYAN="%{$FX[bold]$FG[014]%}"
 local GREEN="%{$FX[bold]$FG[010]%}"
